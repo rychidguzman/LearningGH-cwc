@@ -24,7 +24,7 @@ struct ContentView: View {
                                 Image(r.image)
                                     .resizable()
                                     .scaledToFill()
-                                    .frame(width: 400, height: 350, alignment: .center)
+                                    .frame(width: 350, height: 350, alignment: .center)
                                     .clipped()
                                 .cornerRadius(20)
                                 
