@@ -1,0 +1,42 @@
+[
+    {
+        "name" : "John Lenon",
+        "keyQuote" : "Life is what happens to you while you’re busy making other plans",
+        "image" : "ambition",
+        "quotes" : [ "You may say I’m a dreamer, but I’m not the only one. I hope someday you’ll join us. And the world will live as one", "I believe in everything until it’s disproved. So I believe in fairies, the myths, dragons. It all exists, even if it’s in your mind. Who’s to say that dreams and nightmares aren’t as real as the here and now?", "Part of me suspects that I’m a loser, and the other part of me thinks I’m God Almighty", "My role in society, or any artist’s or poet’s role, is to try and express what we all feel. Not to tell people how to feel. Not as a preacher, not as a leader, but as a reflection of us all", "We live in a world where we have to hide to make love, while violence is practiced in broad daylight"
+        
+        ]
+    },
+    {
+        "name" : "Alice Walker",
+        "keyQuote" : "The most common way people give up their power is by thinking they don’t have any",
+        "image" : "calm",
+        "quotes" : [ "In nature, nothing is perfect and everything is perfect. Trees can be contorted, bent in weird ways, and they're still beautiful", "No person is your friend who demands your silence, or denies your right to grow", "I think it pisses God off if you walk by the color purple in a field somewhere and don't notice it", "The most common way people give up their power is by thinking they don't have any", "Is solace anywhere more comforting than that in the arms of a sister"
+        
+        ]
+    },
+    {
+        "name" : "Mark Twain",
+        "keyQuote" : "The two most important days in your life are the day you are born and the day you find out why",
+        "image" : "focus",
+        "quotes" : [ "The man who does not read good books has no advantage over the man who cannot read them", "Whenever you find yourself on the side of the majority, it is time to pause and reflect", "If you tell the truth, you don't have to remember anything", "Truth is stranger than fiction, but it is because Fiction is obliged to stick to possibilities; Truth isn't", "The two most important days in your life are the day you are born and the day you find out why"
+        
+        ]
+    },
+    {
+        "name" : "Jesus",
+        "keyQuote" : "Ask and it will be given to you; search, and you will find; knock and the door will be opened for you",
+        "image" : "reflect",
+        "quotes" : [ "But I say to you, Love your enemies and pray for those who persecute you, so that you may be sons of your Father who is in heaven; for he makes his sun rise on the evil and on the good, and sends rain on the just and on the unjust", "Do not be anxious about tomorrow, for tomorrow will be anxious for itself. Let the day's own trouble be sufficient for the day", "I am the Way, the Truth, and the Life. No one comes to the Father except through me", "A new command I give you: Love one another. As I have loved you, so you must love one another", "For God so loved the World that he gave his only Son, that whoever believes in him should not perish but have eternal life"
+        
+        ]
+    },
+    {
+        "name" : "Marie Curie",
+        "keyQuote" : "We must believe that we are gifted for something, and that this thing, at whatever cost, must be attained",
+        "image" : "reflect2",
+        "quotes" : [ "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less", "A scientist in his laboratory is not a mere technician: he is also a child confronting natural phenomena that impress him as though they were fairy tales.", "I have frequently been questioned, especially by women, of how I could reconcile family life with a scientific career. Well, it has not been easy", "There are sadistic scientists who hurry to hunt down errors instead of establishing the truth", "I am one of those who think like Nobel, that humanity will draw more good than evil from new discoveries", "All my life through, the new sights of Nature made me rejoice like a child"
+        
+        ]
+    }
+]
